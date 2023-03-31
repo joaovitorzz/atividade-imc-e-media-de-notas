@@ -1,7 +1,2 @@
-# Trabalho-padroes-web
-
-Reinaldo Lino de Souza Junior - ADS
-
-Vitor Lucca Belusio - ADS
-
-Mateus Oliveira - ADS
+# atividade-imc-e-media-de-notas
+Alunos: João Vitor do Carmo Carvalho, Luis Gustavo B, Pedro Eduardo Abreu
